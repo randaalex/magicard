@@ -1,0 +1,40 @@
+AllCops:
+  TargetRubyVersion: 2.6
+  DisplayCopNames: true
+  DisplayStyleGuide: true
+  Exclude:
+    - 'tmp/**/*'
+    - 'bin/**/*'
+
+Style/StringLiteralsInInterpolation:
+  Enabled: true
+  EnforcedStyle: double_quotes
+
+Metrics/BlockLength:
+  Enabled: false
+
+Layout/LineLength:
+  Max: 120
+
+Metrics/MethodLength:
+  Max: 50
+
+Style/Documentation:
+  Enabled: false
+
+Layout/HashAlignment:
+  EnforcedLastArgumentHashStyle: always_ignore
+  EnforcedHashRocketStyle: table
+  EnforcedColonStyle: table
+
+Style/AccessModifierDeclarations:
+  EnforcedStyle: inline
+
+Style/GuardClause:
+  Enabled: false
+
+Metrics/AbcSize:
+  Enabled: false
+
+Style/ModuleFunction:
+  Enabled: false

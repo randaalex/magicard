@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "name": "Ancestor's Chosen",
+      "set": "10E"
+    },
+    {
+      "name": "Master the Way",
+      "set": "KTK",
+      "colors": [
+        "Red",
+        "Blue"
+      ]
+    },
+    {
+      "name": "Mindswipe",
+      "set": "KTK"
+    },
+    {
+      "name": "Artefaktbelebung",
+      "set": "KTK",
+      "colors": [
+        "Red"
+      ]
+    },
+    {
+      "name": "Backfire",
+      "set": "KTK",
+      "colors": [
+        "Green"
+      ]
+    }
+  ]
+}

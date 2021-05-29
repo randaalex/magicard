@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "name": "Ancestor's Chosen",
+      "set": "10E",
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Mindswipe",
+      "set": "10E",
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Angel of Mercy",
+      "set": "10E",
+      "rarity": "Common"
+    },
+    {
+      "name": "Divine Transformation",
+      "set": "4ED",
+      "rarity": "Common"
+    }
+  ]
+}
